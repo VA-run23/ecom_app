@@ -1,2 +1,1 @@
-another file   in main branch adfadfafaf
-aasfaf to check the conflicts
+temp  from branch123 -- commit    text
