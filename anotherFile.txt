@@ -1,1 +1,1 @@
-temp  from branch123 -- commit    text
+temp  from branch123    -- commit    text
